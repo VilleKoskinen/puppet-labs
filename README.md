@@ -1,6 +1,6 @@
 # Puppet Labs
 
-A collection of hands-on Puppet configuration management labs completed as part of my IT Engineering studies at Metropolia University of Applied Sciences.
+A collection of hands-on Puppet configuration management labs completed as part of Metropolia University of Applied Sciences.
 
 The exercises focus on infrastructure automation, configuration management, Puppet modules, and testing Puppet configurations in isolated environments.
 
