@@ -1,0 +1,29 @@
+# Puppet / PDK generated files
+**/pkg/
+**/.bundle/
+**/vendor/
+**/coverage/
+**/.yardoc/
+**/doc/
+
+# Litmus generated files
+**/spec/fixtures/
+**/spec/fixtures/litmus_inventory.yaml
+
+# Ruby
+**/.ruby-version
+**/.ruby-gemset
+
+# Editor / OS
+**/.DS_Store
+**/*~
+**/*.swp
+**/.idea/
+
+# Logs
+**/*.log
+
+# Kubernetes Kubetool generated data / secrets
+kubernetes_lab/data/Ubuntu.yaml
+kubernetes_lab/data/bc511117c6f8.yaml
+kubernetes_lab/kubetool-data/
